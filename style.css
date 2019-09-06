@@ -1,0 +1,39 @@
+@import 'https://fonts.googleapis.com/css?family=Lobster';
+body {
+  background-color: #1F487E;
+}
+
+.page-wrap {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.title {
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  font-size: 5em;
+  margin-top: 10%;
+  color: #CFCFCF;
+}
+
+.subtitle {
+  font-family: 'Lobster', cursive;
+  text-align: right;
+  font-size: 3em;
+  margin-top: -5%;
+  margin-bottom: 10%;
+  color: #CFCFCF;
+}
+
+.weather-information {
+  text-align: center;
+  padding: 15px;
+  margin-top: 1%;
+  margin-bottom: 10%;
+  color: #CFCFCF;
+  font-size: 5em;
+}
+
+#logo {
+  width: 20%;
+}
